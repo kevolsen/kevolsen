@@ -1,8 +1,15 @@
-<h2 align="left">Hello there 👋</h2>
+<h1 align="center">Hi 👋, I'm Kevin Olsen</h1>
+<h3 align="center">A passionate full-stack developer from Oslo, Norway</h3>
 
 ###
 
-<p align="left">My name is Kevin, I'm currently taking a Bachelor's degree in Applied Computer Science at Oslo metropolitan University, working towards becoming a full-stack developer. Here are some of my projects, for more information about me and my projects, feel free to visit my website https://kevinolsen.no.</p>
+- 🌱 I’m currently learning **C#, Python, React**
+
+- 👨‍💻 All of my projects are available at [https://kevinolsen.no](https://kevinolsen.no)
+
+- 📫 How to reach me **kevols@outlook.com**
+
+- 📄 Know about my experiences [https://kevinolsen.no/cv](https://kevinolsen.no/cv) or [https://www.linkedin.com/in/kevin-olsen/](https://www.linkedin.com/in/kevin-olsen/)
 
 ###
 
