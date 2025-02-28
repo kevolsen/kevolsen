@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kevinolsen.no](https://kevinolsen.no)
 
-- 📫 How to reach me **kevols@outlook.com**
+- 📫 How to reach me **kevinAolsen@pm.me**
 
 - 📄 Know about my experiences [https://kevinolsen.no/cv](https://kevinolsen.no/cv) or [https://www.linkedin.com/in/kevin-olsen/](https://www.linkedin.com/in/kevin-olsen/)
 
